@@ -1,0 +1,51 @@
+
+.about-section{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.left-side{
+    width: 30%;
+}
+
+.contant1{
+    font-size: 18px;
+}
+.contant2{
+    font-size: 22px;
+}
+
+.right-side{
+    width: 40%;
+}
+
+.contant3{
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.contant4{
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.contant5{
+    color: #6e365b;
+    font-size: 25px;
+}
+
+
+/* ==========img section */
+
+.img-section{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+.img-2{
+    margin-top: 80px;
+}

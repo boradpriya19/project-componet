@@ -1,0 +1,58 @@
+
+.navigation{
+    background-color: #3b074d;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .nav-logo{
+    margin-left: 80px;
+    font-size: 20px;
+  }
+  
+  .nav-logo h1{
+    margin: 0px;
+  }
+  .rightside{
+    display: flex;
+    color: white;
+    margin-right: 50px;
+  }
+  
+  .nav-menu{
+    margin-right: 150px;
+    margin-top: 10px;
+  }
+  .nav-menu a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    font-size: 18px;
+  }
+
+  .nav-menu a:hover{
+    color: rgb(184, 184, 184);
+  }
+  
+  .nav-btn{
+    background-color: #5f2c6f;
+    color: white;
+    padding: 15px 25px 5px 25px;
+  }
+  
+  .nav-btn:hover{
+    background-color: white;
+    color: #3b074d;
+  }
+  
+  .hero-part{
+    width: 100%;
+   text-align: center;
+   margin-top: 100px; 
+  }
+  
+  
+
+  

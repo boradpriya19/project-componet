@@ -1,0 +1,55 @@
+
+.footer-section{
+    background-color: #1d0326;
+}
+
+.footer-first{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer1{
+    font-size: 20px;
+}
+
+.footer-con-1{
+    font-size: 20px;
+}
+
+.footer-con-2{
+    font-size: 20px;
+}
+
+.footer-con-3{
+    font-size: 20px;
+}
+
+.footer-con-4{
+    font-size: 18px;
+}
+.footer-con-5{
+    font-size: 20px;
+    margin: 0;
+}
+
+
+.footer-sec{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer4 a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.footer4 a:hover{
+    color: rgb(226, 56, 201);
+}
+
+.footer5{
+    color: white;
+}

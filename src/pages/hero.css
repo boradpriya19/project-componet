@@ -1,0 +1,37 @@
+
+
+.hero-img{
+   position: relative;
+}
+
+.hero-contant{
+    position: absolute;
+  text-align: center;
+    transform:translate(50%,-200%);
+}
+
+.contant-1{
+    font-size: 130%;
+    color: white;
+}
+
+.contant-2 p {
+    margin: 0;
+    padding: 0;
+}
+
+.contant-2{
+   font-size: 220%;
+   color: white;
+}
+
+.contant-3{
+    background-color: #5f2c6f;
+    color: white;
+    width: 20%;
+    margin-left: 310px;
+    padding: 20px;
+}
+.contant-3:hover{
+    background-color: #481f54;
+}
